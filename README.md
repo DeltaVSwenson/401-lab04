@@ -1,11 +1,11 @@
-# LAB - Lab03
+# LAB - Lab04
 
 ## Project Name Call Back Functions
 
 ### Author: Jacob Swenson
 
 ### Links and Resources
-* [submission PR](https://github.com/DeltaVSwenson/401-lab03/pull/1)
+* [submission PR](https://github.com/DeltaVSwenson/401-lab04/pull/1)
 * [travis](https://travis-ci.com/DeltaVSwenson/401-lab03/builds/128258753)(need keith to help me figure out lint)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
@@ -39,7 +39,7 @@ Usage Notes or examples
   
 #### Tests
 * How do you run tests?
-npm test test
+npm test cat
 * What assertions were made?
 This shit is hard.
 * What assertions need to be / should be made?
